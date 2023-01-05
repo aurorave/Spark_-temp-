@@ -1,8 +1,4 @@
 # 아파치 스파크 학습을 위한 도커 환경 셋업하기 (feat.Zeppelin)
-# (https://kadensungbincho.tistory.com/91)
-
-# 1. docker-compose up
-# 2. Spark 실행해보기
 
 %pyspark
 
